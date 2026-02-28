@@ -1,6 +1,7 @@
 # labyrinth_crawler
 Labyrinth Crawler is a command-line interface (CLI) adventure game built in Python. It utilizes a dictionary-based state machine to handle player movement, inventory management, and win/loss conditions within a non-linear map.
 
+- Story
 You play as a woman transported to a magical realm after reading a mysterious spellbook. To escape the Goblin King, you must traverse the labyrinth and collect the following ritual components:
 
 Spell Book (Unkept Study)
