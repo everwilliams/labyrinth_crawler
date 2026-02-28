@@ -18,6 +18,7 @@ Enchanted Soil (Moss Garden)
 Mirror Ball (Mirror Ballroom)
 
 - How to Run
+
 Ensure you have Python 3 installed.
 
 Download labyrinth_crawler.py.
